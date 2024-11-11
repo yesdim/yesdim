@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yesdim)](https://github.com/yesdim/leetcode-stats)
+[![codewars](https://www.codewars.com/users/yesdim/badges/small)](https://www.codewars.com/users/yesdim) 
 
 <!--
 **yesdim/yesdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
