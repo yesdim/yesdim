@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-Светлая тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yesdim)](https://github.com/KnlnKS/leetcode-stats)
-
-
-Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yesdim)](https://github.com/yesdim/leetcode-stats)
 
 <!--
 **yesdim/yesdim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
